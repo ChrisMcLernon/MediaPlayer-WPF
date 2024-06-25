@@ -6,8 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 MediaPlayer-WPF is a simple and easy-to-use media player built using Windows Presentation Foundation (WPF). This project aims to provide a lightweight and efficient media player with basic playback functionalities.
@@ -77,6 +75,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
     ```
 
 5. **Create a pull request.**
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
